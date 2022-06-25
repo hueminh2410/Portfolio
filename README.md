@@ -1,4 +1,4 @@
-# HueMinh_Portfolio
+# Nguyễn Thị Huệ Minh
 Welcome to my portfolio. Below are some of my projects.
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hueminh2122) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hu%E1%BB%87-minh-nguy%E1%BB%85n-6675451a7/) 
