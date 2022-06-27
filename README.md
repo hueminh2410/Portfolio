@@ -11,6 +11,7 @@ Welcome to my portfolio. Below are some of my projects.
 - Data for the research are collected as panel data, include non-financial enterprise listed on the Ho Chi Minh City Stock Exchange and the Hanoi Stock Exchange. Data sources are supported by Thomson Reuters. Data is the figures from the annual financial statement of enterprises from 2009 to 2021.
 - The most important feature affecting the performance of the enterprise is net profit margin.
 - Code: [![Code](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/hueminh2410/HueMinh_Portfolio/blob/main/predict%20performance's%20enterprises%20VN/Predict%20performance.ipynb)
+[![Report](https://img.shields.io/badge/PDF-Report-red)](https://github.com/hueminh2410/Portfolio/blob/main/predict%20performance's%20enterprises%20VN/Predict%20performance.pdf)
 ![image](https://user-images.githubusercontent.com/96651289/175787423-35b9b364-7d10-4f9d-9f39-3836feb6a708.png)
 
 ### Predict customer stop using bank with Machine learning
@@ -23,10 +24,11 @@ https://github.com/hueminh2410/HueMinh_Portfolio/blob/main/predict%20customers%2
 ### Factors affect cash holding
 - Project determines the factors affecting the cash holding of the business- firms tend to hold cash at a low level.
 - Language used is R
-- the higher the leverage, the lower the cash holding
-- large firms will hold more cash than small firms.
+- The higher the leverage, the lower the cash holding
+- Large firms will hold more cash than small firms.
 - Code: [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)](
 https://github.com/hueminh2410/HueMinh_Portfolio/blob/main/predict%20customers%20stop%20using%20bank/predict%20customers%20stop%20using%20bank.ipynb)
+[![Report](https://img.shields.io/badge/PDF-Report-red)](https://github.com/hueminh2410/Portfolio/blob/main/cash%20holding/cash_holding.pdf)
 ![image](https://user-images.githubusercontent.com/96651289/175787565-52c1d55b-832f-4eda-9a1e-bd3c66e0ea5b.png)
 ![image](https://user-images.githubusercontent.com/96651289/175787579-0118f7d8-5d5e-461b-8cd8-4aaae7cbf5f5.png)
 
