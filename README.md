@@ -11,6 +11,8 @@ Welcome to my portfolio. Below are some of my projects.
 - The model finds the variable that has the strongest influence on the customer's ability to repay debt, which is "income"
 - The data used in the model is simulation data
 Code: https://github.com/hueminh2410/HueMinh_Portfolio/blob/main/credit%20risk/code.ipynb
+[![Code](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/hueminh2410/HueMinh_Portfolio/blob/main/credit%20risk/code.ipynb)
+[![Code]( )](https://github.com/hueminh2410/HueMinh_Portfolio/blob/main/credit%20risk/code.ipynb)
 ![image](https://user-images.githubusercontent.com/96651289/175787216-e3712db9-a674-4ad7-9f92-f16686febb94.png)
 
 ### Performance prediction by Random forest
