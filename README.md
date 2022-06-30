@@ -37,6 +37,7 @@ https://github.com/hueminh2410/HueMinh_Portfolio/blob/main/predict%20customers%2
 - The model finds the variable that has the strongest influence on the customer's ability to repay debt, which is "income"
 - The data used in the model is simulation data
 - Code: [![Code](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)](https://github.com/hueminh2410/HueMinh_Portfolio/blob/main/credit%20risk/code.ipynb)
+[![Report](https://img.shields.io/badge/PDF-Report-red)](https://github.com/hueminh2410/Portfolio/blob/main/credit%20risk/report.pdf)
 
 ![image](https://user-images.githubusercontent.com/96651289/175787216-e3712db9-a674-4ad7-9f92-f16686febb94.png)
 
